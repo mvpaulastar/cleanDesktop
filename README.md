@@ -1,2 +1,2 @@
 # cleanDesktop
-Made to sort and clean my friend's desktop of certain files and new folders
+Python script made to sort and clean my friend's desktop of certain files and new folders
